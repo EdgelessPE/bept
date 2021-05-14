@@ -1,0 +1,6 @@
+[[list]]
+url = "http://s.edgeless.top/?token=index"
+edgeless_compat = true
+
+[default]
+index = 0

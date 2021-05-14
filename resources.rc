@@ -1,0 +1,26 @@
+1 VERSIONINFO
+FILEVERSION       1,0,0,2053
+PRODUCTVERSION    0,23,1,0
+
+BEGIN
+        BLOCK "StringFileInfo"
+        BEGIN
+                BLOCK "080404b0"
+                BEGIN
+                        VALUE "Comments", "For FirPE Build\0"
+                        VALUE "CompanyName", "Oxygen Team.\0"
+                        VALUE "FileDescription", "Better Edgeless Plugin Tool\0"
+                        VALUE "FileVersion", "1.0.0.0\0"
+                        VALUE "LegalCopyright", "Copyright(c) 2021 Oxygen Team.\0"
+                        VALUE "OriginalFilename", "bept.exe\0"
+                        VALUE "ProductName", "Better Edgeless Plugin Tool\0"
+                        VALUE "ProductVersion", "0.23.1.0\0"
+                        VALUE "SpecialBuild", "10254\0"
+                END
+        END
+
+        BLOCK "VarFileInfo"
+        BEGIN
+                VALUE "Translation", 2052, 1200
+        END
+END

@@ -1,0 +1,8 @@
+[bept.version]
+version = "1.0.0"
+use_ept = false
+
+[bept.files]
+root = "PE"
+indexes = "pe/indexes/"
+temp = "pe/temp"
